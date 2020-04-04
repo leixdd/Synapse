@@ -1,1 +1,3 @@
 # Synapsygen
+
+Simple Corporate Design
